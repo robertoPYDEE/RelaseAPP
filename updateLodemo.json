@@ -1,6 +1,6 @@
 {
   "url":"https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
-  "versionCode":8,
-  "modalidad":"Productivo",
-  "updateMessage":"1. Se agrego la actualización de Vales"
+  "versionCode":9,
+  "modalidad":"Pruebas",
+  "updateMessage":"1. Se agrego la actualización de Facturacion,Yena,Monederos"
 }
