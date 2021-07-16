@@ -1,6 +1,6 @@
 {
   "url":"https://github.com/robertoPYDEE/RelaseAPP/raw/main/FuelAPP.apk",
-  "versionCode":11,
+  "versionCode":12,
   "modalidad":"Pruebas",
-  "updateMessage":"1. Se agrego la actualización de Facturación"
+  "updateMessage":"1. Se quito RFC por defecto"
 }
