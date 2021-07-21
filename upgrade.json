@@ -4,11 +4,11 @@
     },
 
     "1.2": {
-    "versionCode": 3,
+    "versionCode": 1,
     "changelog": ["New automatic update checker", "Improved template interactions"]
     },
     "1.1": {
-    "versionCode": 2,
+    "versionCode": 1,
     "changelog": ["fixed crash"]
     }
 }
